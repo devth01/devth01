@@ -20,7 +20,9 @@ As I continue building my knowledge, I'm actively working on projects that focus
 ---
 
 ## 📌 Projects
-I'm currently working on several cybersecurity-focused projects and labs. These will be shared here soon, so stay tuned!
+
+- [**SOC Automation Lab**](https://github.com/devth01/SOC-Automation-Lab):  
+  A hands-on lab project simulating real-time cyber threat detection and response using Wazuh, Sysmon, TheHive, and Shuffle. It focuses on detecting Mimikatz execution, generating alerts, and automating incident response workflows.
 
 ---
 

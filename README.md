@@ -1,7 +1,7 @@
 # Hello! I'm Dev 👋  
 <a href="https://www.linkedin.com/in/dev-thakkar-ba1466329"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a rising junior at Arizona State University majoring in Computer Science and Applied Cybersecurity. I'm passionate about exploring the latest in tech and cybersecurity—with a particular interest in both **red teaming** and **blue teaming**. My background includes programming in **Python**, **Java**, and **MySQL**, along with hands-on experience working in **Linux** and **Windows** environments.
+I'm a rising junior at Arizona State University studying Computer Science and Applied Cybersecurity. I'm passionate about exploring the latest in tech and cybersecurity—with a particular interest in both **red teaming** and **blue teaming**. My background includes programming in **Python**, **Java**, and **MySQL**, along with hands-on experience working in **Linux** and **Windows** environments.
 
 As I continue building my knowledge, I'm actively working on projects that focus on threat detection, incident response, and SOC automation. I’m especially excited to apply what I’ve learned in lab environments to real-world challenges.
 

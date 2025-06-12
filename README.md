@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello! I'm Dev 👋  
+<a href="https://www.linkedin.com/in/dev-thakkar-ba1466329"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**devth01/devth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising junior at Arizona State University majoring in Computer Science and Applied Cybersecurity. I'm passionate about exploring the latest in tech and cybersecurity—with a particular interest in both **red teaming** and **blue teaming**. My background includes programming in **Python**, **Java**, and **MySQL**, along with hands-on experience working in **Linux** and **Windows** environments.
 
-Here are some ideas to get you started:
+As I continue building my knowledge, I'm actively working on projects that focus on threat detection, incident response, and SOC automation. I’m especially excited to apply what I’ve learned in lab environments to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Certifications  
+<div>
+  <a href="https://www.credly.com/badges/7f0ffb36-5df6-446e-af96-894bb4d903a1/linked_in_profile">
+    <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/HULCGYO0Y12N">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📌 Projects
+I'm currently working on several cybersecurity-focused projects and labs. These will be shared here soon, so stay tuned!
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and connect with me.

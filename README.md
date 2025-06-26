@@ -23,6 +23,9 @@ As I continue building my knowledge, I'm actively working on projects that focus
 
 - [**SOC Automation Lab**](https://github.com/devth01/SOC-Automation-Lab):  
   A hands-on lab project simulating real-time cyber threat detection and response using Wazuh, Sysmon, TheHive, and Shuffle. It focuses on detecting Mimikatz execution, generating alerts, and automating incident response workflows.
+  
+- [**Threat Detection Lab**](https://github.com/devth01/Threat-Detection-Lab):  
+  Cybersecurity lab project using pfSense, Suricata, Splunk, Sysmon, and Kali Linux to simulate attacks and demonstrate detection.
 
 ---
 

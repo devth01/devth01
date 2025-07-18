@@ -27,6 +27,9 @@ As I continue building my knowledge, I'm actively working on projects that focus
 - [**Threat Detection Lab**](https://github.com/devth01/Threat-Detection-Lab):  
   Cybersecurity lab project using pfSense, Suricata, Splunk, Sysmon, and Kali Linux to simulate attacks and demonstrate detection.
 
+- [**SSH & HTTP Python Honeypot**](https://github.com/devth01/ssh-http-honeypy):
+  Deployed a SSH Python honeypot and HTTP Python Honeypot to a VPS to simulate intrusion events and log activity.
+
 ---
 
 Thanks for stopping by! Feel free to check out my repositories and connect with me.
